@@ -1,0 +1,57 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project>
+  <ProjectOutputs>
+    <ProjectOutput>
+      <FullPath>D:\Game Programming\DirectX\DirectXEng\Debug\DirectXEng.exe</FullPath>
+    </ProjectOutput>
+  </ProjectOutputs>
+  <ContentFiles>
+    <ContentFile>
+      <FullPath>D:\Game Programming\DirectX\DirectXEng\DirectXEng\BlendedPhongPS.cso</FullPath>
+    </ContentFile>
+    <ContentFile>
+      <FullPath>D:\Game Programming\DirectX\DirectXEng\DirectXEng\BlendedPhongVS.cso</FullPath>
+    </ContentFile>
+    <ContentFile>
+      <FullPath>D:\Game Programming\DirectX\DirectXEng\DirectXEng\IndexedColorPS.cso</FullPath>
+    </ContentFile>
+    <ContentFile>
+      <FullPath>D:\Game Programming\DirectX\DirectXEng\DirectXEng\IndexedColorVS.cso</FullPath>
+    </ContentFile>
+    <ContentFile>
+      <FullPath>D:\Game Programming\DirectX\DirectXEng\DirectXEng\BlendColorPS.cso</FullPath>
+    </ContentFile>
+    <ContentFile>
+      <FullPath>D:\Game Programming\DirectX\DirectXEng\DirectXEng\BlendColorVS.cso</FullPath>
+    </ContentFile>
+    <ContentFile>
+      <FullPath>D:\Game Programming\DirectX\DirectXEng\DirectXEng\PhongPS.cso</FullPath>
+    </ContentFile>
+    <ContentFile>
+      <FullPath>D:\Game Programming\DirectX\DirectXEng\DirectXEng\PhongVS.cso</FullPath>
+    </ContentFile>
+    <ContentFile>
+      <FullPath>D:\Game Programming\DirectX\DirectXEng\DirectXEng\IndexedPhongPS.cso</FullPath>
+    </ContentFile>
+    <ContentFile>
+      <FullPath>D:\Game Programming\DirectX\DirectXEng\DirectXEng\SolidColorPS.cso</FullPath>
+    </ContentFile>
+    <ContentFile>
+      <FullPath>D:\Game Programming\DirectX\DirectXEng\DirectXEng\SolidColorVS.cso</FullPath>
+    </ContentFile>
+    <ContentFile>
+      <FullPath>D:\Game Programming\DirectX\DirectXEng\DirectXEng\TexturedPhongPS.cso</FullPath>
+    </ContentFile>
+    <ContentFile>
+      <FullPath>D:\Game Programming\DirectX\DirectXEng\DirectXEng\TexturedPhongVS.cso</FullPath>
+    </ContentFile>
+    <ContentFile>
+      <FullPath>D:\Game Programming\DirectX\DirectXEng\DirectXEng\TexturePS.cso</FullPath>
+    </ContentFile>
+    <ContentFile>
+      <FullPath>D:\Game Programming\DirectX\DirectXEng\DirectXEng\TextureVS.cso</FullPath>
+    </ContentFile>
+  </ContentFiles>
+  <SatelliteDlls />
+  <NonRecipeFileRefs />
+</Project>

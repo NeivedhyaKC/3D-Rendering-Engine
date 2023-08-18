@@ -1,0 +1,275 @@
+﻿  compilation object save succeeded; see D:\Game Programming\DirectX\DirectXEng\DirectXEng\BlendedPhongPS.cso
+D:\Game Programming\DirectX\DirectXEng\DirectXEng\BlendedPhongVS.hlsl(18,5-55): warning X3206: implicit truncation of vector type
+  
+  compilation object save succeeded; see D:\Game Programming\DirectX\DirectXEng\DirectXEng\BlendedPhongVS.cso
+  compilation object save succeeded; see D:\Game Programming\DirectX\DirectXEng\DirectXEng\IndexedColorPS.cso
+  compilation object save succeeded; see D:\Game Programming\DirectX\DirectXEng\DirectXEng\IndexedColorVS.cso
+  compilation object save succeeded; see D:\Game Programming\DirectX\DirectXEng\DirectXEng\BlendColorPS.cso
+  compilation object save succeeded; see D:\Game Programming\DirectX\DirectXEng\DirectXEng\BlendColorVS.cso
+  compilation object save succeeded; see D:\Game Programming\DirectX\DirectXEng\DirectXEng\PhongPS.cso
+D:\Game Programming\DirectX\DirectXEng\DirectXEng\PhongVS.hlsl(18,2-52): warning X3206: implicit truncation of vector type
+  
+  compilation object save succeeded; see D:\Game Programming\DirectX\DirectXEng\DirectXEng\PhongVS.cso
+  compilation object save succeeded; see D:\Game Programming\DirectX\DirectXEng\DirectXEng\IndexedPhongPS.cso
+  compilation object save succeeded; see D:\Game Programming\DirectX\DirectXEng\DirectXEng\SolidColorPS.cso
+  compilation object save succeeded; see D:\Game Programming\DirectX\DirectXEng\DirectXEng\SolidColorVS.cso
+  compilation object save succeeded; see D:\Game Programming\DirectX\DirectXEng\DirectXEng\TexturedPhongPS.cso
+D:\Game Programming\DirectX\DirectXEng\DirectXEng\TexturedPhongVS.hlsl(18,5-55): warning X3206: implicit truncation of vector type
+  
+  compilation object save succeeded; see D:\Game Programming\DirectX\DirectXEng\DirectXEng\TexturedPhongVS.cso
+  compilation object save succeeded; see D:\Game Programming\DirectX\DirectXEng\DirectXEng\TexturePS.cso
+  compilation object save succeeded; see D:\Game Programming\DirectX\DirectXEng\DirectXEng\TextureVS.cso
+  App.cpp
+  AssimpTest.cpp
+  Bindable.cpp
+  Box.cpp
+  Camera.cpp
+  ChilliException.cpp
+  ChilliTimer.cpp
+  Cylinder.cpp
+D:\Game Programming\DirectX\DirectXEng\DirectXEng\ChiliWin.h(4,1): warning C4005: '_WIN32_WINNT': macro redefinition (compiling source file Bindable.cpp)
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\shared\sdkddkver.h(218): message : see previous definition of '_WIN32_WINNT' (compiling source file Bindable.cpp)
+D:\Game Programming\DirectX\DirectXEng\DirectXEng\ChiliWin.h(47,1): warning C4005: 'STRICT': macro redefinition (compiling source file Bindable.cpp)
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\shared\minwindef.h(23): message : see previous definition of 'STRICT' (compiling source file Bindable.cpp)
+D:\Game Programming\DirectX\DirectXEng\DirectXEng\ChiliMath.h(16,23): warning C4244: 'initializing': conversion from 'double' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ] (compiling source file Camera.cpp)
+D:\Game Programming\DirectX\DirectXEng\DirectXEng\Camera.cpp(49): message : see reference to function template instantiation 'T wrap_angle<float>(T)' being compiled
+          with
+          [
+              T=float
+          ]
+D:\Game Programming\DirectX\DirectXEng\DirectXEng\ChiliMath.h(16,17): warning C4244: 'initializing': conversion from 'double' to 'const T', possible loss of data
+          with
+          [
+              T=float
+          ] (compiling source file Camera.cpp)
+  Drawable.cpp
+  DrawableBase.cpp
+  dxerr.cpp
+D:\Game Programming\DirectX\DirectXEng\DirectXEng\ConstantBuffer.h(37,9): warning C4101: 'hr': unreferenced local variable (compiling source file Box.cpp)
+D:\Game Programming\DirectX\DirectXEng\DirectXEng\ConstantBuffer.h(36): message : while compiling class template member function 'void ConstantBuffer<T>::Update(Graphics &,const T &)'
+          with
+          [
+              T=Box::MaterialColor
+          ] (compiling source file Box.cpp)
+D:\Game Programming\DirectX\DirectXEng\DirectXEng\Box.cpp(105): message : see reference to function template instantiation 'void ConstantBuffer<T>::Update(Graphics &,const T &)' being compiled
+          with
+          [
+              T=Box::MaterialColor
+          ]
+D:\Game Programming\DirectX\DirectXEng\DirectXEng\ConstantBuffer.h(63): message : see reference to class template instantiation 'ConstantBuffer<T>' being compiled
+          with
+          [
+              T=Box::MaterialColor
+          ] (compiling source file Box.cpp)
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.29.30133\include\type_traits(355): message : see reference to class template instantiation 'PixelConstantBuffer<Box::MaterialColor>' being compiled (compiling source file Box.cpp)
+D:\Game Programming\DirectX\DirectXEng\DirectXEng\Box.cpp(61): message : see reference to class template instantiation 'std::is_convertible<PixelConstantBuffer<Box::MaterialColor> *,_Ty *>' being compiled
+          with
+          [
+              _Ty=Bindable
+          ]
+D:\Game Programming\DirectX\DirectXEng\DirectXEng\ConstantBuffer.h(35): message : see reference to variable template 'const bool conjunction_v<std::negation<std::is_array<PixelConstantBuffer<Box::MaterialColor> > >,std::is_convertible<PixelConstantBuffer<Box::MaterialColor> *,Bindable *>,std::is_convertible<std::default_delete<PixelConstantBuffer<Box::MaterialColor> >,std::default_delete<Bindable> > >' being compiled (compiling source file Box.cpp)
+  DXGIInfoManager.cpp
+D:\Game Programming\DirectX\DirectXEng\DirectXEng\AssimpTest.cpp(34,27): warning C4018: '<': signed/unsigned mismatch
+D:\Game Programming\DirectX\DirectXEng\DirectXEng\AssimpTest.cpp(42,27): warning C4018: '<': signed/unsigned mismatch
+  GDIPlusManager.cpp
+  Graphics.cpp
+D:\Game Programming\DirectX\DirectXEng\DirectXEng\Vertex.h(118): warning C4715: 'DynamicVertex::VertexLayout::Element::SizeOf': not all control paths return a value
+  imgui.cpp
+  ImGuiManager.cpp
+  imgui_demo.cpp
+  imgui_draw.cpp
+  imgui_impl_dx11.cpp
+  imgui_impl_win32.cpp
+  imgui_tables.cpp
+  imgui_widgets.cpp
+  IndexBuffer.cpp
+  InputLayout.cpp
+  Keyboard.cpp
+  Melon.cpp
+  Mesh.cpp
+  Mouse.cpp
+D:\Game Programming\DirectX\DirectXEng\DirectXEng\ChiliWin.h(4,1): warning C4005: '_WIN32_WINNT': macro redefinition (compiling source file IndexBuffer.cpp)
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\shared\sdkddkver.h(218): message : see previous definition of '_WIN32_WINNT' (compiling source file IndexBuffer.cpp)
+D:\Game Programming\DirectX\DirectXEng\DirectXEng\ChiliWin.h(47,1): warning C4005: 'STRICT': macro redefinition (compiling source file IndexBuffer.cpp)
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\shared\minwindef.h(23): message : see previous definition of 'STRICT' (compiling source file IndexBuffer.cpp)
+D:\Game Programming\DirectX\DirectXEng\DirectXEng\ChiliWin.h(4,1): warning C4005: '_WIN32_WINNT': macro redefinition (compiling source file InputLayout.cpp)
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\shared\sdkddkver.h(218): message : see previous definition of '_WIN32_WINNT' (compiling source file InputLayout.cpp)
+D:\Game Programming\DirectX\DirectXEng\DirectXEng\ChiliWin.h(47,1): warning C4005: 'STRICT': macro redefinition (compiling source file InputLayout.cpp)
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\shared\minwindef.h(23): message : see previous definition of 'STRICT' (compiling source file InputLayout.cpp)
+D:\Game Programming\DirectX\DirectXEng\DirectXEng\Graphics.cpp(89,16): warning C4244: '=': conversion from 'int' to 'FLOAT', possible loss of data
+D:\Game Programming\DirectX\DirectXEng\DirectXEng\Graphics.cpp(90,17): warning C4244: '=': conversion from 'int' to 'FLOAT', possible loss of data
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.29.30133\include\xstring(2575,23): warning C4244: 'argument': conversion from 'wchar_t' to 'const _Elem', possible loss of data
+          with
+          [
+              _Elem=char
+          ] (compiling source file Graphics.cpp)
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.29.30133\include\xstring(2586): message : see reference to function template instantiation 'void std::basic_string<char,std::char_traits<char>,std::allocator<char>>::_Construct<wchar_t*>(_Iter,const _Iter,std::input_iterator_tag)' being compiled
+          with
+          [
+              _Iter=wchar_t *
+          ] (compiling source file Graphics.cpp)
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.29.30133\include\xstring(2586): message : see reference to function template instantiation 'void std::basic_string<char,std::char_traits<char>,std::allocator<char>>::_Construct<wchar_t*>(_Iter,const _Iter,std::input_iterator_tag)' being compiled
+          with
+          [
+              _Iter=wchar_t *
+          ] (compiling source file Graphics.cpp)
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.29.30133\include\xstring(2566): message : see reference to function template instantiation 'void std::basic_string<char,std::char_traits<char>,std::allocator<char>>::_Construct<wchar_t*>(const _Iter,const _Iter,std::forward_iterator_tag)' being compiled
+          with
+          [
+              _Iter=wchar_t *
+          ] (compiling source file Graphics.cpp)
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.29.30133\include\xstring(2566): message : see reference to function template instantiation 'void std::basic_string<char,std::char_traits<char>,std::allocator<char>>::_Construct<wchar_t*>(const _Iter,const _Iter,std::forward_iterator_tag)' being compiled
+          with
+          [
+              _Iter=wchar_t *
+          ] (compiling source file Graphics.cpp)
+D:\Game Programming\DirectX\DirectXEng\DirectXEng\Graphics.cpp(225): message : see reference to function template instantiation 'std::basic_string<char,std::char_traits<char>,std::allocator<char>>::basic_string<std::_String_iterator<std::_String_val<std::_Simple_types<_Elem>>>,0>(_Iter,_Iter,const _Alloc &)' being compiled
+          with
+          [
+              _Elem=wchar_t,
+              _Iter=std::_String_iterator<std::_String_val<std::_Simple_types<wchar_t>>>,
+              _Alloc=std::allocator<char>
+          ]
+D:\Game Programming\DirectX\DirectXEng\DirectXEng\Graphics.cpp(225): message : see reference to function template instantiation 'std::basic_string<char,std::char_traits<char>,std::allocator<char>>::basic_string<std::_String_iterator<std::_String_val<std::_Simple_types<_Elem>>>,0>(_Iter,_Iter,const _Alloc &)' being compiled
+          with
+          [
+              _Elem=wchar_t,
+              _Iter=std::_String_iterator<std::_String_val<std::_Simple_types<wchar_t>>>,
+              _Alloc=std::allocator<char>
+          ]
+  PixelShader.cpp
+  PointLight.cpp
+  Pyramid.cpp
+  Sampler.cpp
+D:\Game Programming\DirectX\DirectXEng\DirectXEng\ChiliWin.h(4,1): warning C4005: '_WIN32_WINNT': macro redefinition (compiling source file PixelShader.cpp)
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\shared\sdkddkver.h(218): message : see previous definition of '_WIN32_WINNT' (compiling source file PixelShader.cpp)
+D:\Game Programming\DirectX\DirectXEng\DirectXEng\ChiliWin.h(47,1): warning C4005: 'STRICT': macro redefinition (compiling source file PixelShader.cpp)
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\shared\minwindef.h(23): message : see previous definition of 'STRICT' (compiling source file PixelShader.cpp)
+D:\Game Programming\DirectX\DirectXEng\DirectXEng\ChiliWin.h(4,1): warning C4005: '_WIN32_WINNT': macro redefinition (compiling source file PointLight.cpp)
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\shared\sdkddkver.h(218): message : see previous definition of '_WIN32_WINNT' (compiling source file PointLight.cpp)
+D:\Game Programming\DirectX\DirectXEng\DirectXEng\ChiliWin.h(47,1): warning C4005: 'STRICT': macro redefinition (compiling source file PointLight.cpp)
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\shared\minwindef.h(23): message : see previous definition of 'STRICT' (compiling source file PointLight.cpp)
+  Sheet.cpp
+  SkinnedBox.cpp
+D:\Game Programming\DirectX\DirectXEng\DirectXEng\ChiliWin.h(4,1): warning C4005: '_WIN32_WINNT': macro redefinition (compiling source file Sampler.cpp)
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\shared\sdkddkver.h(218): message : see previous definition of '_WIN32_WINNT' (compiling source file Sampler.cpp)
+D:\Game Programming\DirectX\DirectXEng\DirectXEng\ChiliWin.h(47,1): warning C4005: 'STRICT': macro redefinition (compiling source file Sampler.cpp)
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\shared\minwindef.h(23): message : see previous definition of 'STRICT' (compiling source file Sampler.cpp)
+D:\Game Programming\DirectX\DirectXEng\DirectXEng\Mesh.cpp(168,23): warning C4018: '<': signed/unsigned mismatch
+D:\Game Programming\DirectX\DirectXEng\DirectXEng\Mesh.cpp(212,23): warning C4018: '<': signed/unsigned mismatch
+D:\Game Programming\DirectX\DirectXEng\DirectXEng\Mesh.cpp(253,23): warning C4018: '<': signed/unsigned mismatch
+D:\Game Programming\DirectX\DirectXEng\DirectXEng\Mesh.cpp(258,23): warning C4018: '<': signed/unsigned mismatch
+  SolidSphere.cpp
+  Surface.cpp
+D:\Game Programming\DirectX\DirectXEng\DirectXEng\ConstantBuffer.h(37,9): warning C4101: 'hr': unreferenced local variable (compiling source file PointLight.cpp)
+D:\Game Programming\DirectX\DirectXEng\DirectXEng\ConstantBuffer.h(36): message : while compiling class template member function 'void ConstantBuffer<T>::Update(Graphics &,const T &)'
+          with
+          [
+              T=PointLight::PointLightBuff
+          ] (compiling source file PointLight.cpp)
+D:\Game Programming\DirectX\DirectXEng\DirectXEng\PointLight.cpp(57): message : see reference to function template instantiation 'void ConstantBuffer<T>::Update(Graphics &,const T &)' being compiled
+          with
+          [
+              T=PointLight::PointLightBuff
+          ]
+D:\Game Programming\DirectX\DirectXEng\DirectXEng\ConstantBuffer.h(63): message : see reference to class template instantiation 'ConstantBuffer<T>' being compiled
+          with
+          [
+              T=PointLight::PointLightBuff
+          ] (compiling source file PointLight.cpp)
+D:\Game Programming\DirectX\DirectXEng\DirectXEng\PointLight.h(23): message : see reference to class template instantiation 'PixelConstantBuffer<PointLight::PointLightBuff>' being compiled (compiling source file PointLight.cpp)
+D:\Game Programming\DirectX\DirectXEng\DirectXEng\Vertex.h(118): warning C4715: 'DynamicVertex::VertexLayout::Element::SizeOf': not all control paths return a value
+  Texture.cpp
+  Topology.cpp
+  TransformCBuff.cpp
+D:\Game Programming\DirectX\DirectXEng\DirectXEng\ChiliWin.h(4,1): warning C4005: '_WIN32_WINNT': macro redefinition (compiling source file Texture.cpp)
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\shared\sdkddkver.h(218): message : see previous definition of '_WIN32_WINNT' (compiling source file Texture.cpp)
+D:\Game Programming\DirectX\DirectXEng\DirectXEng\ChiliWin.h(47,1): warning C4005: 'STRICT': macro redefinition (compiling source file Texture.cpp)
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\shared\minwindef.h(23): message : see previous definition of 'STRICT' (compiling source file Texture.cpp)
+D:\Game Programming\DirectX\DirectXEng\DirectXEng\ChiliWin.h(4,1): warning C4005: '_WIN32_WINNT': macro redefinition (compiling source file Topology.cpp)
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\shared\sdkddkver.h(218): message : see previous definition of '_WIN32_WINNT' (compiling source file Topology.cpp)
+D:\Game Programming\DirectX\DirectXEng\DirectXEng\ChiliWin.h(47,1): warning C4005: 'STRICT': macro redefinition (compiling source file Topology.cpp)
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\shared\minwindef.h(23): message : see previous definition of 'STRICT' (compiling source file Topology.cpp)
+  Vertex.cpp
+D:\Game Programming\DirectX\DirectXEng\DirectXEng\Plane.h(52,25): warning C4018: '<': signed/unsigned mismatch (compiling source file Sheet.cpp)
+D:\Game Programming\DirectX\DirectXEng\DirectXEng\Plane.h(73): message : see reference to function template instantiation 'IndexedTriangleList<Sheet::{ctor}::Vertex> Plane::MakeTesselated<V>(int,int)' being compiled
+          with
+          [
+              V=Sheet::{ctor}::Vertex
+          ] (compiling source file Sheet.cpp)
+D:\Game Programming\DirectX\DirectXEng\DirectXEng\Sheet.cpp(43): message : see reference to function template instantiation 'IndexedTriangleList<Sheet::{ctor}::Vertex> Plane::Make<Sheet::{ctor}::Vertex>(void)' being compiled
+D:\Game Programming\DirectX\DirectXEng\DirectXEng\Plane.h(54,26): warning C4018: '<': signed/unsigned mismatch (compiling source file Sheet.cpp)
+D:\Game Programming\DirectX\DirectXEng\DirectXEng\ChiliWin.h(4,1): warning C4005: '_WIN32_WINNT': macro redefinition (compiling source file TransformCBuff.cpp)
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\shared\sdkddkver.h(218): message : see previous definition of '_WIN32_WINNT' (compiling source file TransformCBuff.cpp)
+D:\Game Programming\DirectX\DirectXEng\DirectXEng\ChiliWin.h(47,1): warning C4005: 'STRICT': macro redefinition (compiling source file TransformCBuff.cpp)
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\shared\minwindef.h(23): message : see previous definition of 'STRICT' (compiling source file TransformCBuff.cpp)
+  VertexBuffer.cpp
+  VertexShader.cpp
+  Window.cpp
+  WinMain.cpp
+D:\Game Programming\DirectX\DirectXEng\DirectXEng\ChiliWin.h(4,1): warning C4005: '_WIN32_WINNT': macro redefinition (compiling source file VertexShader.cpp)
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\shared\sdkddkver.h(218): message : see previous definition of '_WIN32_WINNT' (compiling source file VertexShader.cpp)
+D:\Game Programming\DirectX\DirectXEng\DirectXEng\ChiliWin.h(47,1): warning C4005: 'STRICT': macro redefinition (compiling source file VertexShader.cpp)
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\shared\minwindef.h(23): message : see previous definition of 'STRICT' (compiling source file VertexShader.cpp)
+D:\Game Programming\DirectX\DirectXEng\DirectXEng\ConstantBuffer.h(37,9): warning C4101: 'hr': unreferenced local variable (compiling source file TransformCBuff.cpp)
+D:\Game Programming\DirectX\DirectXEng\DirectXEng\ConstantBuffer.h(36): message : while compiling class template member function 'void ConstantBuffer<T>::Update(Graphics &,const T &)'
+          with
+          [
+              T=TransformCbuff::Transforms
+          ] (compiling source file TransformCBuff.cpp)
+D:\Game Programming\DirectX\DirectXEng\DirectXEng\TransformCBuff.cpp(16): message : see reference to function template instantiation 'void ConstantBuffer<T>::Update(Graphics &,const T &)' being compiled
+          with
+          [
+              T=TransformCbuff::Transforms
+          ]
+D:\Game Programming\DirectX\DirectXEng\DirectXEng\ConstantBuffer.h(50): message : see reference to class template instantiation 'ConstantBuffer<T>' being compiled
+          with
+          [
+              T=TransformCbuff::Transforms
+          ] (compiling source file TransformCBuff.cpp)
+D:\Game Programming\DirectX\DirectXEng\DirectXEng\TransformCBuff.cpp(16): message : see reference to class template instantiation 'VertexConstantBuffer<TransformCbuff::Transforms>' being compiled
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.29.30133\include\xstring(2575,23): warning C4244: 'argument': conversion from 'wchar_t' to 'const _Elem', possible loss of data
+          with
+          [
+              _Elem=char
+          ] (compiling source file Window.cpp)
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.29.30133\include\xstring(2586): message : see reference to function template instantiation 'void std::basic_string<char,std::char_traits<char>,std::allocator<char>>::_Construct<wchar_t*>(_Iter,const _Iter,std::input_iterator_tag)' being compiled
+          with
+          [
+              _Iter=wchar_t *
+          ] (compiling source file Window.cpp)
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.29.30133\include\xstring(2586): message : see reference to function template instantiation 'void std::basic_string<char,std::char_traits<char>,std::allocator<char>>::_Construct<wchar_t*>(_Iter,const _Iter,std::input_iterator_tag)' being compiled
+          with
+          [
+              _Iter=wchar_t *
+          ] (compiling source file Window.cpp)
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.29.30133\include\xstring(2566): message : see reference to function template instantiation 'void std::basic_string<char,std::char_traits<char>,std::allocator<char>>::_Construct<wchar_t*>(const _Iter,const _Iter,std::forward_iterator_tag)' being compiled
+          with
+          [
+              _Iter=wchar_t *
+          ] (compiling source file Window.cpp)
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.29.30133\include\xstring(2566): message : see reference to function template instantiation 'void std::basic_string<char,std::char_traits<char>,std::allocator<char>>::_Construct<wchar_t*>(const _Iter,const _Iter,std::forward_iterator_tag)' being compiled
+          with
+          [
+              _Iter=wchar_t *
+          ] (compiling source file Window.cpp)
+D:\Game Programming\DirectX\DirectXEng\DirectXEng\Window.cpp(136): message : see reference to function template instantiation 'std::basic_string<char,std::char_traits<char>,std::allocator<char>>::basic_string<std::_String_iterator<std::_String_val<std::_Simple_types<_Elem>>>,0>(_Iter,_Iter,const _Alloc &)' being compiled
+          with
+          [
+              _Elem=wchar_t,
+              _Iter=std::_String_iterator<std::_String_val<std::_Simple_types<wchar_t>>>,
+              _Alloc=std::allocator<char>
+          ]
+D:\Game Programming\DirectX\DirectXEng\DirectXEng\Window.cpp(136): message : see reference to function template instantiation 'std::basic_string<char,std::char_traits<char>,std::allocator<char>>::basic_string<std::_String_iterator<std::_String_val<std::_Simple_types<_Elem>>>,0>(_Iter,_Iter,const _Alloc &)' being compiled
+          with
+          [
+              _Elem=wchar_t,
+              _Iter=std::_String_iterator<std::_String_val<std::_Simple_types<wchar_t>>>,
+              _Alloc=std::allocator<char>
+          ]
+D:\Game Programming\DirectX\DirectXEng\DirectXEng\WinMain.cpp(32): warning C4715: 'WinMain': not all control paths return a value
+  DirectXEng.vcxproj -> D:\Game Programming\DirectX\DirectXEng\Debug\DirectXEng.exe

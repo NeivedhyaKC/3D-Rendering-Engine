@@ -1,0 +1,167 @@
+﻿  App.cpp
+  The contents of <optional> are available only with C++17 or later.
+D:\Game Programming\DirectX\DirectXEng\DirectXEng\Mouse.h(48,10): error C2039: 'optional': is not a member of 'std'
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.27.29110\include\queue(22): message : see declaration of 'std'
+D:\Game Programming\DirectX\DirectXEng\DirectXEng\Mouse.h(48,18): error C2143: syntax error: missing ';' before '<'
+D:\Game Programming\DirectX\DirectXEng\DirectXEng\Mouse.h(48,18): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+D:\Game Programming\DirectX\DirectXEng\DirectXEng\Mouse.h(48,41): error C2238: unexpected token(s) preceding ';'
+D:\Game Programming\DirectX\DirectXEng\DirectXEng\Keyboard.h(32,10): error C2039: 'optional': is not a member of 'std'
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.27.29110\include\bitset(21): message : see declaration of 'std'
+D:\Game Programming\DirectX\DirectXEng\DirectXEng\Keyboard.h(32,18): error C2143: syntax error: missing ';' before '<'
+D:\Game Programming\DirectX\DirectXEng\DirectXEng\Keyboard.h(32,18): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+D:\Game Programming\DirectX\DirectXEng\DirectXEng\Keyboard.h(32,44): error C2238: unexpected token(s) preceding ';'
+D:\Game Programming\DirectX\DirectXEng\DirectXEng\Keyboard.h(35,10): error C2039: 'optional': is not a member of 'std'
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.27.29110\include\bitset(21): message : see declaration of 'std'
+D:\Game Programming\DirectX\DirectXEng\DirectXEng\Keyboard.h(35,18): error C2143: syntax error: missing ';' before '<'
+D:\Game Programming\DirectX\DirectXEng\DirectXEng\Keyboard.h(35,18): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+D:\Game Programming\DirectX\DirectXEng\DirectXEng\Keyboard.h(35,53): error C2238: unexpected token(s) preceding ';'
+D:\Game Programming\DirectX\DirectXEng\DirectXEng\Window.h(15,17): error C2039: 'optional': is not a member of 'std'
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.27.29110\include\memory(28): message : see declaration of 'std'
+D:\Game Programming\DirectX\DirectXEng\DirectXEng\Window.h(15,25): error C2143: syntax error: missing ';' before '<'
+D:\Game Programming\DirectX\DirectXEng\DirectXEng\Window.h(15,25): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+D:\Game Programming\DirectX\DirectXEng\DirectXEng\Window.h(15,48): error C2238: unexpected token(s) preceding ';'
+D:\Game Programming\DirectX\DirectXEng\DirectXEng\App.h(27,10): error C2039: 'optional': is not a member of 'std'
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.27.29110\include\set(23): message : see declaration of 'std'
+D:\Game Programming\DirectX\DirectXEng\DirectXEng\App.h(27,18): error C2143: syntax error: missing ';' before '<'
+D:\Game Programming\DirectX\DirectXEng\DirectXEng\App.h(27,18): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+D:\Game Programming\DirectX\DirectXEng\DirectXEng\App.h(27,37): error C2238: unexpected token(s) preceding ';'
+D:\Game Programming\DirectX\DirectXEng\DirectXEng\assimp\include\assimp\Importer.hpp(56,10): fatal error C1083: Cannot open include file: 'assimp/types.h': No such file or directory
+  Bindable.cpp
+D:\Game Programming\DirectX\DirectXEng\DirectXEng\ChiliWin.h(4,1): warning C4005: '_WIN32_WINNT': macro redefinition
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\shared\sdkddkver.h(218): message : see previous definition of '_WIN32_WINNT'
+D:\Game Programming\DirectX\DirectXEng\DirectXEng\ChiliWin.h(47,1): warning C4005: 'STRICT': macro redefinition
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\shared\minwindef.h(23): message : see previous definition of 'STRICT'
+  DXGIInfoManager.cpp
+  The contents of <optional> are available only with C++17 or later.
+D:\Game Programming\DirectX\DirectXEng\DirectXEng\Mouse.h(48,10): error C2039: 'optional': is not a member of 'std'
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.27.29110\include\queue(22): message : see declaration of 'std'
+D:\Game Programming\DirectX\DirectXEng\DirectXEng\Mouse.h(48,18): error C2143: syntax error: missing ';' before '<'
+D:\Game Programming\DirectX\DirectXEng\DirectXEng\Mouse.h(48,18): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+D:\Game Programming\DirectX\DirectXEng\DirectXEng\Mouse.h(48,41): error C2238: unexpected token(s) preceding ';'
+D:\Game Programming\DirectX\DirectXEng\DirectXEng\Keyboard.h(32,10): error C2039: 'optional': is not a member of 'std'
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.27.29110\include\bitset(21): message : see declaration of 'std'
+D:\Game Programming\DirectX\DirectXEng\DirectXEng\Keyboard.h(32,18): error C2143: syntax error: missing ';' before '<'
+D:\Game Programming\DirectX\DirectXEng\DirectXEng\Keyboard.h(32,18): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+D:\Game Programming\DirectX\DirectXEng\DirectXEng\Keyboard.h(32,44): error C2238: unexpected token(s) preceding ';'
+D:\Game Programming\DirectX\DirectXEng\DirectXEng\Keyboard.h(35,10): error C2039: 'optional': is not a member of 'std'
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.27.29110\include\bitset(21): message : see declaration of 'std'
+D:\Game Programming\DirectX\DirectXEng\DirectXEng\Keyboard.h(35,18): error C2143: syntax error: missing ';' before '<'
+D:\Game Programming\DirectX\DirectXEng\DirectXEng\Keyboard.h(35,18): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+D:\Game Programming\DirectX\DirectXEng\DirectXEng\Keyboard.h(35,53): error C2238: unexpected token(s) preceding ';'
+D:\Game Programming\DirectX\DirectXEng\DirectXEng\Window.h(15,17): error C2039: 'optional': is not a member of 'std'
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.27.29110\include\memory(28): message : see declaration of 'std'
+D:\Game Programming\DirectX\DirectXEng\DirectXEng\Window.h(15,25): error C2143: syntax error: missing ';' before '<'
+D:\Game Programming\DirectX\DirectXEng\DirectXEng\Window.h(15,25): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+D:\Game Programming\DirectX\DirectXEng\DirectXEng\Window.h(15,48): error C2238: unexpected token(s) preceding ';'
+  GDIPlusManager.cpp
+  imgui_tables.cpp
+  imgui_widgets.cpp
+  Keyboard.cpp
+  The contents of <optional> are available only with C++17 or later.
+D:\Game Programming\DirectX\DirectXEng\DirectXEng\Keyboard.h(32,10): error C2039: 'optional': is not a member of 'std'
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.27.29110\include\bitset(21): message : see declaration of 'std'
+D:\Game Programming\DirectX\DirectXEng\DirectXEng\Keyboard.h(32,18): error C2143: syntax error: missing ';' before '<'
+D:\Game Programming\DirectX\DirectXEng\DirectXEng\Keyboard.h(32,18): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+D:\Game Programming\DirectX\DirectXEng\DirectXEng\Keyboard.h(32,44): error C2238: unexpected token(s) preceding ';'
+D:\Game Programming\DirectX\DirectXEng\DirectXEng\Keyboard.h(35,10): error C2039: 'optional': is not a member of 'std'
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.27.29110\include\bitset(21): message : see declaration of 'std'
+D:\Game Programming\DirectX\DirectXEng\DirectXEng\Keyboard.h(35,18): error C2143: syntax error: missing ';' before '<'
+D:\Game Programming\DirectX\DirectXEng\DirectXEng\Keyboard.h(35,18): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+D:\Game Programming\DirectX\DirectXEng\DirectXEng\Keyboard.h(35,53): error C2238: unexpected token(s) preceding ';'
+D:\Game Programming\DirectX\DirectXEng\DirectXEng\Keyboard.cpp(13,6): error C2039: 'optional': is not a member of 'std'
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.27.29110\include\bitset(21): message : see declaration of 'std'
+D:\Game Programming\DirectX\DirectXEng\DirectXEng\Keyboard.cpp(13,14): error C2143: syntax error: missing ';' before '<'
+D:\Game Programming\DirectX\DirectXEng\DirectXEng\Keyboard.cpp(13,14): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+D:\Game Programming\DirectX\DirectXEng\DirectXEng\Keyboard.cpp(13,42): error C2039: 'ReadKey': is not a member of 'Keyboard'
+D:\Game Programming\DirectX\DirectXEng\DirectXEng\Keyboard.h(5): message : see declaration of 'Keyboard'
+D:\Game Programming\DirectX\DirectXEng\DirectXEng\Keyboard.cpp(14,1): error C2143: syntax error: missing ';' before '{'
+D:\Game Programming\DirectX\DirectXEng\DirectXEng\Keyboard.cpp(14,1): error C2447: '{': missing function header (old-style formal list?)
+D:\Game Programming\DirectX\DirectXEng\DirectXEng\Keyboard.cpp(29,6): error C2039: 'optional': is not a member of 'std'
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.27.29110\include\bitset(21): message : see declaration of 'std'
+D:\Game Programming\DirectX\DirectXEng\DirectXEng\Keyboard.cpp(29,14): error C2143: syntax error: missing ';' before '<'
+D:\Game Programming\DirectX\DirectXEng\DirectXEng\Keyboard.cpp(29,14): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+D:\Game Programming\DirectX\DirectXEng\DirectXEng\Keyboard.cpp(29,14): error C2086: 'int optional': redefinition
+D:\Game Programming\DirectX\DirectXEng\DirectXEng\Keyboard.cpp(13): message : see declaration of 'optional'
+D:\Game Programming\DirectX\DirectXEng\DirectXEng\Keyboard.cpp(29,40): error C2039: 'ReadChar': is not a member of 'Keyboard'
+D:\Game Programming\DirectX\DirectXEng\DirectXEng\Keyboard.h(5): message : see declaration of 'Keyboard'
+D:\Game Programming\DirectX\DirectXEng\DirectXEng\Keyboard.cpp(30,1): error C2143: syntax error: missing ';' before '{'
+D:\Game Programming\DirectX\DirectXEng\DirectXEng\Keyboard.cpp(30,1): error C2447: '{': missing function header (old-style formal list?)
+  Melon.cpp
+  Mouse.cpp
+  The contents of <optional> are available only with C++17 or later.
+D:\Game Programming\DirectX\DirectXEng\DirectXEng\Mouse.h(48,10): error C2039: 'optional': is not a member of 'std'
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.27.29110\include\queue(22): message : see declaration of 'std'
+D:\Game Programming\DirectX\DirectXEng\DirectXEng\Mouse.h(48,18): error C2143: syntax error: missing ';' before '<'
+D:\Game Programming\DirectX\DirectXEng\DirectXEng\Mouse.h(48,18): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+D:\Game Programming\DirectX\DirectXEng\DirectXEng\Mouse.h(48,41): error C2238: unexpected token(s) preceding ';'
+D:\Game Programming\DirectX\DirectXEng\DirectXEng\Mouse.cpp(49,6): error C2039: 'optional': is not a member of 'std'
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.27.29110\include\queue(22): message : see declaration of 'std'
+D:\Game Programming\DirectX\DirectXEng\DirectXEng\Mouse.cpp(49,14): error C2143: syntax error: missing ';' before '<'
+D:\Game Programming\DirectX\DirectXEng\DirectXEng\Mouse.cpp(49,14): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+D:\Game Programming\DirectX\DirectXEng\DirectXEng\Mouse.cpp(49,36): error C2039: 'Read': is not a member of 'Mouse'
+D:\Game Programming\DirectX\DirectXEng\DirectXEng\Mouse.h(5): message : see declaration of 'Mouse'
+D:\Game Programming\DirectX\DirectXEng\DirectXEng\Mouse.cpp(50,1): error C2143: syntax error: missing ';' before '{'
+D:\Game Programming\DirectX\DirectXEng\DirectXEng\Mouse.cpp(50,1): error C2447: '{': missing function header (old-style formal list?)
+  PixelShader.cpp
+D:\Game Programming\DirectX\DirectXEng\DirectXEng\ChiliWin.h(4,1): warning C4005: '_WIN32_WINNT': macro redefinition
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\shared\sdkddkver.h(218): message : see previous definition of '_WIN32_WINNT'
+D:\Game Programming\DirectX\DirectXEng\DirectXEng\ChiliWin.h(47,1): warning C4005: 'STRICT': macro redefinition
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\shared\minwindef.h(23): message : see previous definition of 'STRICT'
+  Window.cpp
+  The contents of <optional> are available only with C++17 or later.
+D:\Game Programming\DirectX\DirectXEng\DirectXEng\Mouse.h(48,10): error C2039: 'optional': is not a member of 'std'
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.27.29110\include\queue(22): message : see declaration of 'std'
+D:\Game Programming\DirectX\DirectXEng\DirectXEng\Mouse.h(48,18): error C2143: syntax error: missing ';' before '<'
+D:\Game Programming\DirectX\DirectXEng\DirectXEng\Mouse.h(48,18): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+D:\Game Programming\DirectX\DirectXEng\DirectXEng\Mouse.h(48,41): error C2238: unexpected token(s) preceding ';'
+D:\Game Programming\DirectX\DirectXEng\DirectXEng\Keyboard.h(32,10): error C2039: 'optional': is not a member of 'std'
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.27.29110\include\bitset(21): message : see declaration of 'std'
+D:\Game Programming\DirectX\DirectXEng\DirectXEng\Keyboard.h(32,18): error C2143: syntax error: missing ';' before '<'
+D:\Game Programming\DirectX\DirectXEng\DirectXEng\Keyboard.h(32,18): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+D:\Game Programming\DirectX\DirectXEng\DirectXEng\Keyboard.h(32,44): error C2238: unexpected token(s) preceding ';'
+D:\Game Programming\DirectX\DirectXEng\DirectXEng\Keyboard.h(35,10): error C2039: 'optional': is not a member of 'std'
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.27.29110\include\bitset(21): message : see declaration of 'std'
+D:\Game Programming\DirectX\DirectXEng\DirectXEng\Keyboard.h(35,18): error C2143: syntax error: missing ';' before '<'
+D:\Game Programming\DirectX\DirectXEng\DirectXEng\Keyboard.h(35,18): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+D:\Game Programming\DirectX\DirectXEng\DirectXEng\Keyboard.h(35,53): error C2238: unexpected token(s) preceding ';'
+D:\Game Programming\DirectX\DirectXEng\DirectXEng\Window.h(15,17): error C2039: 'optional': is not a member of 'std'
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.27.29110\include\memory(28): message : see declaration of 'std'
+D:\Game Programming\DirectX\DirectXEng\DirectXEng\Window.h(15,25): error C2143: syntax error: missing ';' before '<'
+D:\Game Programming\DirectX\DirectXEng\DirectXEng\Window.h(15,25): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+D:\Game Programming\DirectX\DirectXEng\DirectXEng\Window.h(15,48): error C2238: unexpected token(s) preceding ';'
+D:\Game Programming\DirectX\DirectXEng\DirectXEng\Window.cpp(49,6): error C2039: 'optional': is not a member of 'std'
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.27.29110\include\sstream(20): message : see declaration of 'std'
+D:\Game Programming\DirectX\DirectXEng\DirectXEng\Window.cpp(49,14): error C2143: syntax error: missing ';' before '<'
+D:\Game Programming\DirectX\DirectXEng\DirectXEng\Window.cpp(49,14): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+D:\Game Programming\DirectX\DirectXEng\DirectXEng\Window.cpp(49,28): error C2039: 'ManageProcesses': is not a member of 'Window'
+D:\Game Programming\DirectX\DirectXEng\DirectXEng\Window.h(9): message : see declaration of 'Window'
+D:\Game Programming\DirectX\DirectXEng\DirectXEng\Window.cpp(50,1): error C2143: syntax error: missing ';' before '{'
+D:\Game Programming\DirectX\DirectXEng\DirectXEng\Window.cpp(50,1): error C2447: '{': missing function header (old-style formal list?)
+  WinMain.cpp
+  The contents of <optional> are available only with C++17 or later.
+D:\Game Programming\DirectX\DirectXEng\DirectXEng\Mouse.h(48,10): error C2039: 'optional': is not a member of 'std'
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.27.29110\include\queue(22): message : see declaration of 'std'
+D:\Game Programming\DirectX\DirectXEng\DirectXEng\Mouse.h(48,18): error C2143: syntax error: missing ';' before '<'
+D:\Game Programming\DirectX\DirectXEng\DirectXEng\Mouse.h(48,18): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+D:\Game Programming\DirectX\DirectXEng\DirectXEng\Mouse.h(48,41): error C2238: unexpected token(s) preceding ';'
+D:\Game Programming\DirectX\DirectXEng\DirectXEng\Keyboard.h(32,10): error C2039: 'optional': is not a member of 'std'
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.27.29110\include\bitset(21): message : see declaration of 'std'
+D:\Game Programming\DirectX\DirectXEng\DirectXEng\Keyboard.h(32,18): error C2143: syntax error: missing ';' before '<'
+D:\Game Programming\DirectX\DirectXEng\DirectXEng\Keyboard.h(32,18): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+D:\Game Programming\DirectX\DirectXEng\DirectXEng\Keyboard.h(32,44): error C2238: unexpected token(s) preceding ';'
+D:\Game Programming\DirectX\DirectXEng\DirectXEng\Keyboard.h(35,10): error C2039: 'optional': is not a member of 'std'
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.27.29110\include\bitset(21): message : see declaration of 'std'
+D:\Game Programming\DirectX\DirectXEng\DirectXEng\Keyboard.h(35,18): error C2143: syntax error: missing ';' before '<'
+D:\Game Programming\DirectX\DirectXEng\DirectXEng\Keyboard.h(35,18): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+D:\Game Programming\DirectX\DirectXEng\DirectXEng\Keyboard.h(35,53): error C2238: unexpected token(s) preceding ';'
+D:\Game Programming\DirectX\DirectXEng\DirectXEng\Window.h(15,17): error C2039: 'optional': is not a member of 'std'
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.27.29110\include\memory(28): message : see declaration of 'std'
+D:\Game Programming\DirectX\DirectXEng\DirectXEng\Window.h(15,25): error C2143: syntax error: missing ';' before '<'
+D:\Game Programming\DirectX\DirectXEng\DirectXEng\Window.h(15,25): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+D:\Game Programming\DirectX\DirectXEng\DirectXEng\Window.h(15,48): error C2238: unexpected token(s) preceding ';'
+D:\Game Programming\DirectX\DirectXEng\DirectXEng\App.h(27,10): error C2039: 'optional': is not a member of 'std'
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.27.29110\include\set(23): message : see declaration of 'std'
+D:\Game Programming\DirectX\DirectXEng\DirectXEng\App.h(27,18): error C2143: syntax error: missing ';' before '<'
+D:\Game Programming\DirectX\DirectXEng\DirectXEng\App.h(27,18): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+D:\Game Programming\DirectX\DirectXEng\DirectXEng\App.h(27,37): error C2238: unexpected token(s) preceding ';'
+  Generating Code...
